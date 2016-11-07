@@ -1,8 +1,10 @@
 # Usage
 
 This patch installs a couple of new logic gates for you to use in CircuiTikZ. The supported gates are:
+
 * `din or gate`
 * `din not gate`
+
 They work much the same as the `american *` gates. Just try it.
 
 | Before (US gates) | After (DIN 40700 gates) |
@@ -22,6 +24,6 @@ They work much the same as the `american *` gates. Just try it.
 
 Now you can compile files using this patch.
 
-# Motivation
+# Why would you even bother?
 
 You can read [this article](http://fceschmidt.github.io/foss/2016/11/07/din-40700-logic-gates-in-circuitikz.html).
