@@ -7,7 +7,7 @@ They work much the same as the `american *` gates. Just try it.
 
 | Before (US gates) | After (DIN 40700 gates) |
 | ------ | ----- |
-| ![US gates](http://fceschmidt.github.io/public/assets/2016-11-04-din-40700-gates-in-circuitikz/american_gates.png) | ![DIN gates](http://fceschmidt.github.io/public/assets/2016-11-04-din-40700-gates-in-circuitikz/din_gates.png) |
+| ![US gates](http://fceschmidt.github.io/public/assets/2016-11-07-din-40700-gates-in-circuitikz/american_gates.png) | ![DIN gates](http://fceschmidt.github.io/public/assets/2016-11-07-din-40700-gates-in-circuitikz/din_gates.png) |
 
 # How to install this patch
 
